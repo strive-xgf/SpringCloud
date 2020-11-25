@@ -53,6 +53,7 @@
         </plugins>
     </build>
 
+    <!-- 阿里云目前还没有更新，所以需要保留官网的仓库地址 -->
     <repositories>
         <repository>
             <id>spring-milestones</id>
